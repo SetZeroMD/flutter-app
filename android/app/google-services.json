@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748668380725",
+    "project_id": "agenda-k",
+    "storage_bucket": "agenda-k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748668380725:android:9064d56772b04c60e8337c",
+        "android_client_info": {
+          "package_name": "br.com.lucas.projetos_2_noite_menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748668380725-3q1mfi624qfl3h933qsrd578pvcn0mes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zEVUkXp3aYylSL8g_Wy6q6o5N9op1gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748668380725-3q1mfi624qfl3h933qsrd578pvcn0mes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
